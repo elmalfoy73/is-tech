@@ -1,0 +1,11 @@
+rootProject.name = 'tech'
+include 'Lab1'
+include 'Lab2'
+include 'Lab3'
+include 'Lab5'
+include 'Lab5:Entity'
+include 'Lab5:CatService'
+include 'Lab5:OwnerService'
+include 'Lab5:FleaService'
+include 'Lab5:MainService'
+
